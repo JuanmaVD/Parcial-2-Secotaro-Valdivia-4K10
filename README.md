@@ -1,1 +1,3 @@
 # Parcial-2-Secotaro-Valdivia-4K10
+## Codigo del parcial 2 - Termostato
+El termostato debe hacer funcionar un motor y un led cuando la temperatura supera cierto valor. Para ello conectar termistor NTC o un sensor de temperatura resistivo a la entrada analógica 0, un led al pin 5 y un motor de corriente continua al pin 10. Cuando la temperatura llegue a cierto umbral de voltaje ( entre 0 y xxx valor), se debe conectar a la vez el diodo led y el motor que debe tener aspas de ventilador en su eje para enfriar la NTC.
